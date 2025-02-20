@@ -2,9 +2,6 @@
 A Python-based implementation of Row and Column Transposition Ciphers for text encryption and decryption. Features an interactive CLI interface, support for custom keys, and automated padding handling for secure text transformation.
 
 
-# Transposition Cipher Program
-
-A Python implementation of Row and Column Transposition Ciphers for text encryption and decryption.
 
 ## Features
 
@@ -20,7 +17,7 @@ A Python implementation of Row and Column Transposition Ciphers for text encrypt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/transposition-cipher.git
+git clone https://github.com/Salma-Samy0/transposition-cipher.git
 cd transposition-cipher
 ```
 
