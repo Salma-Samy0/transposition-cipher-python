@@ -17,7 +17,7 @@ A Python-based implementation of Row and Column Transposition Ciphers for text e
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Salma-Samy0/transposition-cipher.git
+git clone https://github.com/Salma-Samy0/transposition-cipher-python.git
 cd transposition-cipher
 ```
 
