@@ -26,17 +26,15 @@ cd transposition-cipher
 ## Usage
 
 Run the program.
-```
 
 Follow the interactive prompts to:
-1. Choose the transposition method (Row/Column)
-2. Select operation (Encrypt/Decrypt)
-3. Enter the text to process
-4. Provide the encryption/decryption key
 
-### Example
+Choose the transposition method (Row/Column)
+Select operation (Encrypt/Decrypt)
+Enter the text to process
+Provide the encryption/decryption key
 
-```
+Example
 ================================================================================================
 Row and Column Transposition Cipher Program
 ================================================================================================
@@ -52,28 +50,24 @@ Enter the text: HELLO WORLD
 Enter the key: KEY
 
 Ciphertext: HLRLO$OWLED
-```
+How It Works
+Row Transposition
 
-## How It Works
+Removes spaces from the input text
+Creates a grid based on key length
+Fills the grid row by row
+Rearranges columns based on key
+Reads off row by row
 
-### Row Transposition
-1. Removes spaces from the input text
-2. Creates a grid based on key length
-3. Fills the grid row by row
-4. Rearranges columns based on key
-5. Reads off row by row
+Column Transposition
 
-### Column Transposition
-1. Removes spaces and converts to lowercase
-2. Creates a grid based on key length
-3. Fills the grid row by row
-4. Rearranges columns based on key
-5. Reads off column by column
+Removes spaces and converts to lowercase
+Creates a grid based on key length
+Fills the grid row by row
+Rearranges columns based on key
+Reads off column by column
 
-## Contributing
-
+Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+License
+MIT
