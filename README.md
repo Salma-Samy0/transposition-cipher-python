@@ -25,9 +25,7 @@ cd transposition-cipher
 
 ## Usage
 
-Run the program:
-```bash
-python project.py
+Run the program.
 ```
 
 Follow the interactive prompts to:
